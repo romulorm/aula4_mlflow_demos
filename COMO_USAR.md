@@ -35,6 +35,7 @@ cd demos
 python demo_1_treinar_com_mlflow.py
 
 # Em outro terminal
+cd demos
 mlflow ui --host 127.0.0.1 --port 5000
 # Abrir http://localhost:5000
 ```
